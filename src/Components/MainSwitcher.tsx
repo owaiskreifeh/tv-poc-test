@@ -36,8 +36,6 @@ export const MainSwitcher = () => {
               </Suspense>
             )}
           />
-
-
         ))}
       </Switch>
     </main>
